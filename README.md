@@ -6,31 +6,31 @@ If you are interested you can raise a request and I'll upload the blender files 
 ### Images
 
 - 1
-![](images/image1.png)
+![](images/image-1.png)
 
 - 2
-![](images/image2.png)
+![](images/image-2.png)
 
 - 3
-![](images/image3.png)
+![](images/image-3.png)
 
 - 4
-![](images/image4.png)
+![](images/image-4.png)
 
 - 5
-![](images/image5.png)
+![](images/image-5.png)
 
 - 6
-![](images/image6.png)
+![](images/image-6.png)
 
 - 7
-![](images/image7.png)
+![](images/image-7.png)
 
 - 8
-![](images/image8.png)
+![](images/image-8.png)
 
 - 9
-![](images/image9.png)
+![](images/image-9.png)
 
 - 10
-![](images/image10.png)
+![](images/image-10.png)
